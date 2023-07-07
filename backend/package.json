@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "@androz2091/insta.js": "^1.6.1",
-    "@google-cloud/dialogflow": "^4.6.0",
+    "@google-cloud/dialogflow": "^5.2.0",
     "@sentry/node": "^5.29.2",
     "@types/pino": "^6.3.4",
     "@vonage/server-sdk": "^2.10.10",
